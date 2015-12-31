@@ -7,5 +7,5 @@ object ScalaBasic {
   def main(args: Array[String]): Unit = {
     Logger.getLogger("org").setLevel(Level.OFF)
     System.setProperty("spark.ui.showConsoleProgress", "false")
-  }
+  }  
 }
